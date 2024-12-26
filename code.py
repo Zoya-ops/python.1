@@ -9,4 +9,4 @@ for i in range(pass_len):
     passw = random.choice(char_values)
     password += passw
 
-print(password)
+print("your password is =",password)
